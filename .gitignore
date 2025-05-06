@@ -1,0 +1,3 @@
+infra/*
+!infra/*.tf
+!infra/*.tfvars
